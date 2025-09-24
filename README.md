@@ -14,8 +14,11 @@ This project predicts residential property prices using machine learning. It ana
 # Key Features:
 
 -> Data preprocessing and visualization to identify price influencers
+
 -> Comparison of multiple regression models for best performance
+
 -> Evaluation using MSE, MAE, and R² score
+
 -> Interactive interface (CLI or Flask) to input property details and get predicted prices
 
 # Technologies:
